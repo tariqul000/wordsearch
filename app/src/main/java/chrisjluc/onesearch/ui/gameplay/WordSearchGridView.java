@@ -19,7 +19,7 @@ import chrisjluc.onesearch.wordSearchGenerator.models.Point;
 
 public class WordSearchGridView extends GridView {
     /*
-     * TODO: Implement this using a viewgroup to draw out the wordsearch more efficiently
+     *  Implement this using a viewgroup to draw out the wordsearch more efficiently
      * Gridview wasn't built to draw out so many elements at the same time, especially when drawing out hundreds of elements in advanced
      * Really slow on older devices
      * Use ViewGroup
